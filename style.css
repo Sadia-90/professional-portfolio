@@ -31,7 +31,10 @@ section{
    background-image: url("./images/top-banner.png");
    background-repeat: no-repeat;
 }
-
+.half-width2{
+    background-image: url("./images/dream-bg.png");
+    background-repeat: no-repeat;
+}
 
 
 
