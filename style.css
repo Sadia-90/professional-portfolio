@@ -34,7 +34,28 @@ section{
 .half-width2{
     background-image: url("./images/dream-bg.png");
     background-repeat: no-repeat;
+   
 }
+.experience-area{
+background-image: url("./images/exp-bg.png");
+background-repeat: no-repeat;
 
+}
+.nevyblue-color{
+    color: blue;
+}
+.half-width3{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 20px;
+    border-left: 10px solid maroon;
+    box-shadow: 10px 10px 30px grey;
+    
+}
+footer p {
+    text-align: center;
+}
 
 
